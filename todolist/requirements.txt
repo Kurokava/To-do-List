@@ -1,0 +1,5 @@
+asgiref
+Djano
+pytz
+sqlparse
+pillow
